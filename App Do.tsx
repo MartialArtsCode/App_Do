@@ -20,7 +20,7 @@ const PanamericanTKDApp = () => {
     'admin': { 
       password: 'admin123', 
       role: 'Admin', 
-      name: 'Master Kim',
+      name: 'Carlos Padilla',
       profilePic: '👤',
       bio: 'Head Instructor - 5th Dan Black Belt'
     },
