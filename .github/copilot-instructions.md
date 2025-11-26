@@ -11,7 +11,8 @@
 - [ ] Launch the Project
 - [ ] Ensure Documentation is Complete
 
-<!--
+
+<!-
 ## Execution Guidelines
 PROGRESS TRACKING:
 - If any tools are available to manage the above todo list, use it to track progress through this checklist.
